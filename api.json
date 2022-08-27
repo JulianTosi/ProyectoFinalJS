@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 800,
+      "id": 1,
+      "title": "Café",
+      "thumbnailUrl": "https://carrefourar.vtexassets.com/arquivos/ids/237617-1200-auto?v=637829636764700000&width=1200&height=auto&aspect=true"
+    },
+    {
+      "precio": 500,
+      "id": 2,
+      "title": "Galletitas",
+      "thumbnailUrl": "https://carrefourar.vtexassets.com/arquivos/ids/250430-1200-auto?v=637928133729470000&width=1200&height=auto&aspect=true"
+    },
+    {
+      "precio": 350,
+      "id": 3,
+      "title": "Mermelada",
+      "thumbnailUrl": "https://arcorencasa.com/wp-content/uploads/2020/07/arcor-subcat-min-mermeladas.png"
+    },
+    {
+      "precio": 1200,
+      "id": 4,
+      "title": "Patitas",
+      "thumbnailUrl": "https://carrefourar.vtexassets.com/arquivos/ids/196581/7790070016300_01.jpg?v=637523688446130000"
+    },
+    {
+      "precio": 1500,
+      "id": 5,
+      "title": "Chocolate",
+      "thumbnailUrl": "https://carrefourar.vtexassets.com/arquivos/ids/172260-1200-auto?v=637468546045270000&width=1200&height=auto&aspect=true"
+    },
+    {
+      "precio": 150,
+      "id": 6,
+      "title": "Pan",
+      "thumbnailUrl": "https://carrefourar.vtexassets.com/arquivos/ids/227632/7793890255959_01.jpg?v=637717413192670000"
+    }
+  ]

@@ -1,0 +1,13 @@
+.cartaProducto{
+    margin: 10px;
+    max-width: 30%;
+}
+
+.justify-content-top{
+    margin: 10px;
+}
+
+.prodCss{
+    margin: 10px;
+    justify-content: end;
+}
